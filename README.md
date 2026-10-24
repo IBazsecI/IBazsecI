@@ -4,9 +4,9 @@
 
 # B A Z S E C
 
-**Security Researcher · Pentester · AI Security**
+**Security Researcher · Developer **
 
-*Offensive mindset. Defensive precision.*
+*Quality Over Quantity*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="75%" alt="" />
 
