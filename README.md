@@ -1,7 +1,5 @@
  <div align="center">
 
-<img src="assets/bazsec-logo.png" width="120" alt="Bazsec" />
-
 # B A Z S E C
 
 **Security Researcher · Developer**
