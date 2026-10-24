@@ -1,14 +1,14 @@
  <div align="center">
 
-<img src="assets/bazsec-logo.png" width="125" alt="Bazsec" />
+<img src="assets/bazsec-logo.png" width="120" alt="Bazsec" />
 
 # B A Z S E C
 
-**Security Researcher · Developer **
+**Security Researcher · Developer**
 
-*Quality Over Quantity*
+*Quality Over Quantity.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="75%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="65%" alt="" />
 
 </div>
 
@@ -16,17 +16,32 @@
 
 ## ABOUT
 
-Security researcher focused on penetration testing, secure application development, and AI security.
+Security researcher and developer focused on penetration testing, secure software, and AI security.
 
-On Social Media **(Youtube & Instagram etc.)**, I'm building a channel that goes beyond traditional cybersecurity:
+Through **Bazsec**, I'm building a channel that explores cybersecurity beyond the basics.
 
-    Cybersecurity & Ethical Hacking — Tool walkthroughs, pentesting methodology, and real-world attack scenarios.
+**Cybersecurity & Ethical Hacking** — Pentesting, security tools, and real-world attack scenarios.
 
-    Technology — Deep dives into modern systems, tools, software, and infrastructure.
+**Technology** — Modern software, systems, and infrastructure.
 
-    Storytelling — Narrative-driven videos about hacks, breaches, and the people behind them.
+**Storytelling** — The stories behind hacks, breaches, and the people who shape cybersecurity.
 
-I'm always interested in security research, Python/Go development, automation, and AI-driven security.
+Currently exploring **Python, Go, automation, and AI-driven security.**
+
+</div>
+
+<div align="center">
+
+## CONNECT
+
+[![YouTube](https://img.shields.io/badge/YouTube-211D19?style=for-the-badge&logo=youtube&logoColor=CDBBA5)](https://www.youtube.com/@Bazsec)
+[![Instagram](https://img.shields.io/badge/Instagram-211D19?style=for-the-badge&logo=instagram&logoColor=CDBBA5)](https://www.instagram.com/bazsecc/)
+[![X](https://img.shields.io/badge/X-211D19?style=for-the-badge&logo=x&logoColor=CDBBA5)](https://x.com/Bazsecc)
+[![Threads](https://img.shields.io/badge/Threads-211D19?style=for-the-badge&logo=threads&logoColor=CDBBA5)](https://www.threads.com/@bazsecc)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-211D19?style=for-the-badge&logo=linkedin&logoColor=CDBBA5)](https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/)
+[![GitHub](https://img.shields.io/badge/GitHub-211D19?style=for-the-badge&logo=github&logoColor=CDBBA5)](https://github.com/IBazsecI)
+[![Reddit](https://img.shields.io/badge/Reddit-211D19?style=for-the-badge&logo=reddit&logoColor=CDBBA5)](https://www.reddit.com/user/Bazsec/)
 
 </div>
 
@@ -42,28 +57,28 @@ I'm always interested in security research, Python/Go development, automation, a
 
 **BACKEND**
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,postgres&theme=dark" width="112" alt="Go Python Bash PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=go,python,bash,postgres&theme=dark" width="112" alt="Go, Python, Bash, PostgreSQL" />
 
 </td>
 <td align="center" width="25%">
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="112" alt="HTML CSS JavaScript React" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="112" alt="HTML, CSS, JavaScript, React" />
 
 </td>
 <td align="center" width="25%">
 
 **DEVSECOPS**
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&theme=dark" width="112" alt="Docker Git GitHub Actions Linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&theme=dark" width="112" alt="Docker, Git, GitHub Actions, Linux" />
 
 </td>
 <td align="center" width="25%">
 
 **CYBERSEC**
 
-<img src="https://skillicons.dev/icons?i=kali,linux,python,bash&theme=dark" width="112" alt="Kali Linux Python Bash" />
+<img src="https://skillicons.dev/icons?i=kali,linux,python,bash&theme=dark" width="112" alt="Kali Linux, Linux, Python, Bash" />
 
 </td>
 </tr>
@@ -80,30 +95,13 @@ I'm always interested in security research, Python/Go development, automation, a
 
 <div align="center">
 
-## GITHUB
+## GITHUB ACTIVITY
 
 <img src="https://github-stats-extended.vercel.app/api?username=IBazsecI&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=CDBBA5&icon_color=9C8974&text_color=D0C8BE&cache_seconds=86400" width="80%" alt="GitHub Stats" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBazsecI&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=CDBBA5&text_color=D0C8BE&cache_seconds=86400" width="60%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBazsecI&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=CDBBA5&text_color=D0C8BE&cache_seconds=86400" width="60%" alt="Most Used Languages" />
 
-</div>
-
----
-
-<div align="center">
-
-## CONNECT
-
-[![GitHub](https://img.shields.io/badge/GitHub-211D19?style=for-the-badge&logo=github&logoColor=CDBBA5)](https://github.com/IBazsecI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-211D19?style=for-the-badge&logo=linkedin&logoColor=CDBBA5)](https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/)
-[![YouTube](https://img.shields.io/badge/YouTube-211D19?style=for-the-badge&logo=youtube&logoColor=CDBBA5)](https://www.youtube.com/@Bazsec)
-
-[![X](https://img.shields.io/badge/X-211D19?style=for-the-badge&logo=x&logoColor=CDBBA5)](https://x.com/Bazsecc)
-[![Threads](https://img.shields.io/badge/Threads-211D19?style=for-the-badge&logo=threads&logoColor=CDBBA5)](https://www.threads.com/@bazsecc)
-[![Reddit](https://img.shields.io/badge/Reddit-211D19?style=for-the-badge&logo=reddit&logoColor=CDBBA5)](https://www.reddit.com/user/Bazsec/)
-[![Instagram](https://img.shields.io/badge/Instagram-211D19?style=for-the-badge&logo=instagram&logoColor=CDBBA5)](https://www.instagram.com/bazsecc/)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="75%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="65%" alt="" />
 
 <sub>THINK LIKE AN ATTACKER · BUILD LIKE AN ENGINEER</sub>
 
