@@ -6,7 +6,7 @@
 
 *Quality Over Quantity.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="65%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=50" width="65%" alt="" />
 
 </div>
 
