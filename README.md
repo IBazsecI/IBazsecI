@@ -1,82 +1,146 @@
-<!-- README Profile for Kemal Baz -->
-<!-- Header Section -->
-<div align="center" style="background-color:#0d1117; color:#f0f0f0; padding: 30px; border-radius: 15px;">
+# Kemal Baz | Bazsec
 
-<h1 align="center">Hi, I'm Kemal Baz</h1>
-<h3 align="center">Security Researcher | Penetration Tester | AI Security</h3>
+<div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:0e75b6&height=200&section=header&text=Bazsec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Bazsec Header Banner" width="100%" />
+<img src="assets/bazsec-logo.png" width="150" alt="Bazsec Anime Hacker Logo" />
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IBazsecI&label=Profile%20views&color=0e75b6&style=flat" alt="IBazsecI profile views" />
-  <img src="https://img.shields.io/github/followers/IBazsecI?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-</p>
+### `BAZSEC // SECURITY • SOFTWARE • AI`
+
+**Security Researcher · Penetration Tester · AI Security**
+
+*Breaking systems to understand them. Building defenses to secure them.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3" width="100%" alt="" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=IBazsecI&label=PROFILE%20VIEWS&color=4b4036&style=flat-square)
+![Followers](https://img.shields.io/github/followers/IBazsecI?label=FOLLOWERS&color=4b4036&style=flat-square&logo=github)
 
 </div>
 
 ---
 
-### About Me
+## `01` — About Me
 
-I'm a security researcher focused on penetration testing and building secure web & mobile applications. Alongside offensive security work, I'm expanding into **AI Security** — studying how attacks and defenses evolve as AI systems become part of everyday infrastructure.
+I'm a security researcher focused on **penetration testing** and building secure web and mobile applications.
 
-I'm also currently learning **Go**, using it to build faster tooling for my security work.
+Alongside offensive security, I'm expanding into **AI Security**, exploring how attacks and defenses evolve as AI systems become part of modern infrastructure.
 
-**On YouTube**, I'm starting a channel that goes beyond just cybersecurity — it covers:
-- **Cybersecurity & Ethical Hacking** — tool walkthroughs, pentesting methodology, real-world attack scenarios
-- **Technology** — deep dives into how modern systems, tools, and infrastructure actually work
-- **Storytelling** — narrative-driven videos on hacks, breaches, and the people behind them
+I'm also learning **Go** to build faster, more efficient tools for security research and automation.
 
-Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go development, or AI security.
+### Beyond the Terminal
 
----
+On YouTube, I'm building a channel that goes beyond traditional cybersecurity:
 
-### Connect with Me
+- **Cybersecurity & Ethical Hacking** — Tool walkthroughs, pentesting methodology, and real-world attack scenarios.
+- **Technology** — Deep dives into modern systems, tools, software, and infrastructure.
+- **Storytelling** — Narrative-driven videos about hacks, breaches, and the people behind them.
 
-<p align="fixed">
-  <a href="https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@Bazsec" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/bazsecc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
----
-
-### Languages & Cybersecurity Tools
-
-<p align="center">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/></a>
-<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" title="Go"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" title="CSS3"/></a>
-<a href="https://www.kali.org/"><img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" width="45" title="Kali Linux"/></a>
-<a href="https://nmap.org/"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" width="45" title="Nmap"/></a>
-<a href="https://www.wireshark.org/"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" width="45" title="Wireshark"/></a>
-<a href="https://www.metasploit.com/"><img src="https://raw.githubusercontent.com/rohhthone/logo/main/metasploit.svg" width="45" title="Metasploit"/></a>
-<a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/Mit-Rax/BURPY/main/burp-suite-professional.svg" width="45" title="Burp Suite"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/></a>
-</p>
+I'm always interested in security research, Python/Go development, automation, and AI-driven security.
 
 ---
 
-### GitHub Stats
+## `02` — Connect
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=IBazsecI&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBazsecI&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24211F?style=for-the-badge&logo=linkedin&logoColor=C8B9A6)](https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/)
+[![YouTube](https://img.shields.io/badge/YouTube-24211F?style=for-the-badge&logo=youtube&logoColor=C8B9A6)](https://www.youtube.com/@Bazsec)
+[![Instagram](https://img.shields.io/badge/Instagram-24211F?style=for-the-badge&logo=instagram&logoColor=C8B9A6)](https://www.instagram.com/bazsecc/)
+[![X](https://img.shields.io/badge/X-24211F?style=for-the-badge&logo=x&logoColor=C8B9A6)](https://x.com/Bazsecc)
+[![Threads](https://img.shields.io/badge/Threads-24211F?style=for-the-badge&logo=threads&logoColor=C8B9A6)](https://www.threads.com/@bazsecc)
+[![Reddit](https://img.shields.io/badge/Reddit-24211F?style=for-the-badge&logo=reddit&logoColor=C8B9A6)](https://www.reddit.com/user/Bazsec/)
+
+</div>
 
 ---
 
-<p align="center"><i>New videos on offensive security, technology, and storytelling coming soon — subscribe to follow along.</i></p>
+## `03` — Tech Stack & Arsenal
+
+### ⚙️ Backend Development
+
+<div align="left">
+
+![Go](https://img.shields.io/badge/Go-24211F?style=for-the-badge&logo=go&logoColor=C8B9A6)
+![Python](https://img.shields.io/badge/Python-24211F?style=for-the-badge&logo=python&logoColor=C8B9A6)
+![Bash](https://img.shields.io/badge/Bash-24211F?style=for-the-badge&logo=gnubash&logoColor=C8B9A6)
+![Linux](https://img.shields.io/badge/Linux-24211F?style=for-the-badge&logo=linux&logoColor=C8B9A6)
+![Git](https://img.shields.io/badge/Git-24211F?style=for-the-badge&logo=git&logoColor=C8B9A6)
+
+</div>
+
+Building security tools, automation scripts, backend services, and developer utilities.
+
+### ◈ Frontend Development
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-24211F?style=for-the-badge&logo=html5&logoColor=C8B9A6)
+![CSS3](https://img.shields.io/badge/CSS3-24211F?style=for-the-badge&logo=css3&logoColor=C8B9A6)
+![JavaScript](https://img.shields.io/badge/JavaScript-24211F?style=for-the-badge&logo=javascript&logoColor=C8B9A6)
+
+</div>
+
+Developing clean web interfaces and exploring application security from both the developer and attacker perspectives.
+
+### ⛓️ DevSecOps & Infrastructure
+
+<div align="left">
+
+![Docker](https://img.shields.io/badge/Docker-24211F?style=for-the-badge&logo=docker&logoColor=C8B9A6)
+![Linux](https://img.shields.io/badge/Linux-24211F?style=for-the-badge&logo=linux&logoColor=C8B9A6)
+![Git](https://img.shields.io/badge/Git-24211F?style=for-the-badge&logo=git&logoColor=C8B9A6)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24211F?style=for-the-badge&logo=githubactions&logoColor=C8B9A6)
+
+</div>
+
+Interested in secure CI/CD pipelines, container security, automation, and integrating security throughout the software development lifecycle.
+
+### ⚔️ Cybersecurity & Research
+
+<div align="left">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-24211F?style=for-the-badge&logo=kalilinux&logoColor=C8B9A6)
+![Nmap](https://img.shields.io/badge/Nmap-24211F?style=for-the-badge&logo=linux&logoColor=C8B9A6)
+![Wireshark](https://img.shields.io/badge/Wireshark-24211F?style=for-the-badge&logo=wireshark&logoColor=C8B9A6)
+![Metasploit](https://img.shields.io/badge/Metasploit-24211F?style=for-the-badge&logo=metasploit&logoColor=C8B9A6)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-24211F?style=for-the-badge&logo=burpsuite&logoColor=C8B9A6)
+![OWASP](https://img.shields.io/badge/OWASP-24211F?style=for-the-badge&logo=owasp&logoColor=C8B9A6)
+
+</div>
+
+Focused on penetration testing, web application security, attack surface analysis, network reconnaissance, and understanding offensive techniques to improve defensive capabilities.
+
+*Tools and technologies represent my working toolkit and areas of interest; proficiency varies by tool.*
+
+---
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=IBazsecI&show_icons=true&theme=transparent&hide_border=true&title_color=C8B9A6&icon_color=9C8974&text_color=B8B0A6&cache_seconds=86400" width="80%" alt="GitHub Statistics" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBazsecI&layout=compact&theme=transparent&hide_border=true&title_color=C8B9A6&text_color=B8B0A6&cache_seconds=86400" width="60%" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## `05` — Current Mission
+
+```text
+[+] Offensive Security
+[+] Secure Software Engineering
+[+] AI Security & Intelligent Automation
+[+] Go Development & Security Tooling
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3" width="100%" alt="" />
+
+**DISCIPLINE OVER HYPE. KNOWLEDGE OVER NOISE.**
+
+<sub>Security · Software · Technology</sub>
+
+</div>
