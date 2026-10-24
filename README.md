@@ -18,7 +18,15 @@
 
 Security researcher focused on penetration testing, secure application development, and AI security.
 
-Exploring **Go, security automation, and intelligent defense systems.**
+On Social Media **(Youtube & Instagram etc.)**, I'm building a channel that goes beyond traditional cybersecurity:
+
+    Cybersecurity & Ethical Hacking — Tool walkthroughs, pentesting methodology, and real-world attack scenarios.
+
+    Technology — Deep dives into modern systems, tools, software, and infrastructure.
+
+    Storytelling — Narrative-driven videos about hacks, breaches, and the people behind them.
+
+I'm always interested in security research, Python/Go development, automation, and AI-driven security.
 
 </div>
 
