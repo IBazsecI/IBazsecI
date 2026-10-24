@@ -5,11 +5,7 @@
 # B A Z S E C
 
 ### SECURITY RESEARCHER · SOFTWARE · AI
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=2" width="85%" alt="" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=IBazsecI&style=flat-square&color=494037&label=VISITORS)](https://github.com/IBazsecI)
-[![GitHub Followers](https://img.shields.io/github/followers/IBazsecI?style=flat-square&color=494037&label=FOLLOWERS&logo=github)](https://github.com/IBazsecI)
 
 *Offensive mindset. Defensive precision.*
 
@@ -55,7 +51,7 @@ Currently exploring **Go, AI Security, and intelligent security automation.**
 
 ### DEVSECOPS
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,terraform&theme=dark" width="150" alt="DevSecOps technologies" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,&theme=dark" width="150" alt="DevSecOps technologies" />
 
 </td>
 <td align="center" width="25%">
@@ -63,15 +59,6 @@ Currently exploring **Go, AI Security, and intelligent security automation.**
 ### CYBERSECURITY
 
 <img src="https://skillicons.dev/icons?i=kali,bash,linux,python,docker,github&theme=dark" width="150" alt="Cybersecurity technologies" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
 [![Nmap](https://img.shields.io/badge/Nmap-211D19?style=flat-square&logo=linux&logoColor=CDBBA5)](https://nmap.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-211D19?style=flat-square&logo=burpsuite&logoColor=CDBBA5)](https://portswigger.net/burp)
 [![Metasploit](https://img.shields.io/badge/Metasploit-211D19?style=flat-square&logo=metasploit&logoColor=CDBBA5)](https://www.metasploit.com/)
@@ -80,6 +67,9 @@ Currently exploring **Go, AI Security, and intelligent security automation.**
 [![Postman](https://img.shields.io/badge/Postman-211D19?style=flat-square&logo=postman&logoColor=CDBBA5)](https://www.postman.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-211D19?style=flat-square&logo=githubactions&logoColor=CDBBA5)](https://github.com/features/actions)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-211D19?style=flat-square&logo=owasp&logoColor=CDBBA5)](https://www.zaproxy.org/)
+</td>
+</tr>
+</table>
 
 </div>
 
