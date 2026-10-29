@@ -3,6 +3,7 @@
 # B A Z S E C
 
 *Security Researcher & DevSecOps*
+
 *Quality Over Quantity.*
 
 </div>
