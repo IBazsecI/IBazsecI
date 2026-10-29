@@ -1,9 +1,6 @@
  <div align="center">
 
 # B A Z S E C
-
-**Security Researcher · Developer**
-
 *Quality Over Quantity.*
 
 </div>
